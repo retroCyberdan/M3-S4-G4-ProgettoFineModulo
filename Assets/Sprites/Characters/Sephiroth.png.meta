@@ -1,0 +1,1566 @@
+fileFormatVersion: 2
+guid: 240cb5daea70e8545afba142d25f969f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b180f6e9a7c5994791e5f3aefdda089
+      internalID: 1392478684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 241
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c95a3d571a99b1439365da409ad4d1d
+      internalID: 2113724464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 241
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884656b8ec97ad247a2358f4ed54770b
+      internalID: -389045781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 231
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c57731b249f540b29ad750523cfef
+      internalID: -1797099106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 231
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618890130026636418ac5ba7b43236c7
+      internalID: -1076972144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 231
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6410afd9b95c34c8777030eb8a29eb
+      internalID: 529252149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3639d3830670c48931fb22c461254c
+      internalID: 1081061708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 217
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f997a1388f2760e47afcde6af446f06d
+      internalID: 1481753831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 216
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ed5cada27c5dd4285c9bdae69f13ea
+      internalID: -1014851118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 216
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c53f46f0e63d42b5b0905626547ac
+      internalID: -1713132294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 224
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015569a466ae0644caa154f96cba9db7
+      internalID: -660198740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 206
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01e305f00a27fa429a669cbba6ceb11
+      internalID: 1924859830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 206
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d2cc8107359f345b40d729aba02e43
+      internalID: -961870442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 206
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b614a3e71b91548a9bebb6bead20c5
+      internalID: 261703282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 203
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfaad5d608e5f34d87aa3087eb8e2c3
+      internalID: -1504340375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 191
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9f999bca3e5d24fbcf8b1b3546382c
+      internalID: 1377785573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 191
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6f7d4792cb71d4d8028be5e4ddbcb1
+      internalID: -1159600792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31caf9ef5e84b9349bb12409f9e317e8
+      internalID: -1535531608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5992ab88129eb043ba81d69dae9be82
+      internalID: -871294256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 166
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d581e3af227d742989710905995d4b
+      internalID: 1702011335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 166
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e640f13f9bfaee4e86acf129994e411
+      internalID: 1273223877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 185
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c6797d63000a546a799c84a93e6109
+      internalID: 1447270136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 181
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b896d98f5defc40aa307f498fafebb
+      internalID: 2024238685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 181
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bd871f3fa3b9548a6731b563878e3d
+      internalID: -14010795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 181
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b134aa6fc7708498d5b59d25338a2c
+      internalID: -1822377756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 156
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3e3b859ffda449a1d1b3858d7d860
+      internalID: 1902962817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 141
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7bbe82aa78caa46a587278cd3f559e
+      internalID: 316343430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 141
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9991cfcabf358e41ac89405844a89f5
+      internalID: -1399963704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 160
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5275ca8f4a39894f98caff6f33f29d3
+      internalID: 558868103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 156
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e0e5ef7447c349be2346f58516ae1
+      internalID: -1038861963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 157
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5087fd1c2291a409c5b06a2cfd042e
+      internalID: -2045377819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 157
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c86dd46f10ed543a0d2975e13795a8
+      internalID: 716696989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c459dc0f8dccde04f898eb0208e068c9
+      internalID: -1232019329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 116
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb426a9b1ce8e444a9c38bb4c443837
+      internalID: 661429617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 117
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e09a219005e93d438c5b855a5cd316f
+      internalID: -1246712867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 135
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dd89fae7e805443922afba5c9f5781
+      internalID: 281592091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 132
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf68a4a6b9e4c334d9462127790859ad
+      internalID: 1206562338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 133
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83ed42bbce9a854f84eab805e7bc080
+      internalID: -1952163366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 133
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434f8d73d24afc74c803a899a20151ea
+      internalID: -399895025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d3180d2f547f4498d2b46a7f48cbb5
+      internalID: 813770031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_40
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d215f6e861e6479bbf7aa8907d883
+      internalID: -1676179920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 108
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f12d79aa01efc409cadc708a976667
+      internalID: 106902162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 109
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9024935733f39d46a9cbac1421bc182
+      internalID: 102986623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 117
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2c2061ee220e34a9cb2289dbe96526
+      internalID: 742026137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1818e226ef664bf4c9ff86e7d358052a
+      internalID: 1791041906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 92
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca84fb3cf8afa646bd18c3a161e8fb4
+      internalID: 1176621486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 93
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af96002ecea04646b6b293da8920a09
+      internalID: -707079077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 88
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f01564f7536fce4b98d6bb5bf0e9e10
+      internalID: -1517877785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 100
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b897b822fbe8e45afd1472bc9264f7
+      internalID: 1317259922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_49
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 100
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c80c7bca364efc4cb344362d1a2e1d4
+      internalID: 1254018341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_50
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 102
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deca6a7e44e50ee40bdb8aa2baf1e07c
+      internalID: 1789927086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741eea8af6582574e808fba7f9ab9aaf
+      internalID: 206042109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 83
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70644b5114348d046a016e88c47e1cd1
+      internalID: 76008360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 89
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504931244bb2a1347a8ed8d34822913a
+      internalID: -1921530278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 91
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5075f01b9b7e4b948a4985151e2a6c7d
+      internalID: 2085765393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d21336804ebe64080b8c67e179dae5
+      internalID: -1060786671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 69
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5329098c8f6219447aec916645745cb9
+      internalID: -640683586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_57
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 72
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4065b134e4c35474f90cebe97209333d
+      internalID: -2083033746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_58
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 70
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18fd5188fb00c7449cb6a656d394491
+      internalID: 257938588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_59
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 76
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c7d1ee970bfe449b347eb8756cf53
+      internalID: -2039461814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_60
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 80
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755cc6d5e22f8cd48a7ffb2e8b3da2c6
+      internalID: 1768178477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_61
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 78
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad37ecb445045cc43b78a04ee84ae80f
+      internalID: -972994537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a41641c1427c4f45a52a661136fe4c2
+      internalID: 377195610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_63
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 56
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6789409ec4a5c043bd3b4f8f5cabf87
+      internalID: 960411420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_64
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 57
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af86ce1ae595bc54aafbc68f4ff56e81
+      internalID: 1098879658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Sephiroth_65
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 60
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641df8f766088f646a3b10d18e730cc4
+      internalID: -94733698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Final Fantasy Record Keeper - Sephiroth_0: 1392478684
+      Mobile - Final Fantasy Record Keeper - Sephiroth_1: 2113724464
+      Mobile - Final Fantasy Record Keeper - Sephiroth_10: -660198740
+      Mobile - Final Fantasy Record Keeper - Sephiroth_11: 1924859830
+      Mobile - Final Fantasy Record Keeper - Sephiroth_12: -961870442
+      Mobile - Final Fantasy Record Keeper - Sephiroth_13: 261703282
+      Mobile - Final Fantasy Record Keeper - Sephiroth_14: -1504340375
+      Mobile - Final Fantasy Record Keeper - Sephiroth_15: 1377785573
+      Mobile - Final Fantasy Record Keeper - Sephiroth_16: -1159600792
+      Mobile - Final Fantasy Record Keeper - Sephiroth_17: -1535531608
+      Mobile - Final Fantasy Record Keeper - Sephiroth_18: -871294256
+      Mobile - Final Fantasy Record Keeper - Sephiroth_19: 1702011335
+      Mobile - Final Fantasy Record Keeper - Sephiroth_2: -389045781
+      Mobile - Final Fantasy Record Keeper - Sephiroth_20: 1273223877
+      Mobile - Final Fantasy Record Keeper - Sephiroth_21: 1447270136
+      Mobile - Final Fantasy Record Keeper - Sephiroth_22: 2024238685
+      Mobile - Final Fantasy Record Keeper - Sephiroth_23: -14010795
+      Mobile - Final Fantasy Record Keeper - Sephiroth_24: -1822377756
+      Mobile - Final Fantasy Record Keeper - Sephiroth_25: 1902962817
+      Mobile - Final Fantasy Record Keeper - Sephiroth_26: 316343430
+      Mobile - Final Fantasy Record Keeper - Sephiroth_27: -1399963704
+      Mobile - Final Fantasy Record Keeper - Sephiroth_28: 558868103
+      Mobile - Final Fantasy Record Keeper - Sephiroth_29: -1038861963
+      Mobile - Final Fantasy Record Keeper - Sephiroth_3: -1797099106
+      Mobile - Final Fantasy Record Keeper - Sephiroth_30: -2045377819
+      Mobile - Final Fantasy Record Keeper - Sephiroth_31: 716696989
+      Mobile - Final Fantasy Record Keeper - Sephiroth_32: -1232019329
+      Mobile - Final Fantasy Record Keeper - Sephiroth_33: 661429617
+      Mobile - Final Fantasy Record Keeper - Sephiroth_34: -1246712867
+      Mobile - Final Fantasy Record Keeper - Sephiroth_35: 281592091
+      Mobile - Final Fantasy Record Keeper - Sephiroth_36: 1206562338
+      Mobile - Final Fantasy Record Keeper - Sephiroth_37: -1952163366
+      Mobile - Final Fantasy Record Keeper - Sephiroth_38: -399895025
+      Mobile - Final Fantasy Record Keeper - Sephiroth_39: 813770031
+      Mobile - Final Fantasy Record Keeper - Sephiroth_4: -1076972144
+      Mobile - Final Fantasy Record Keeper - Sephiroth_40: -1676179920
+      Mobile - Final Fantasy Record Keeper - Sephiroth_41: 106902162
+      Mobile - Final Fantasy Record Keeper - Sephiroth_42: 102986623
+      Mobile - Final Fantasy Record Keeper - Sephiroth_43: 742026137
+      Mobile - Final Fantasy Record Keeper - Sephiroth_44: 1791041906
+      Mobile - Final Fantasy Record Keeper - Sephiroth_45: 1176621486
+      Mobile - Final Fantasy Record Keeper - Sephiroth_46: -707079077
+      Mobile - Final Fantasy Record Keeper - Sephiroth_47: -1517877785
+      Mobile - Final Fantasy Record Keeper - Sephiroth_48: 1317259922
+      Mobile - Final Fantasy Record Keeper - Sephiroth_49: 1254018341
+      Mobile - Final Fantasy Record Keeper - Sephiroth_5: 529252149
+      Mobile - Final Fantasy Record Keeper - Sephiroth_50: 1789927086
+      Mobile - Final Fantasy Record Keeper - Sephiroth_51: 206042109
+      Mobile - Final Fantasy Record Keeper - Sephiroth_52: 76008360
+      Mobile - Final Fantasy Record Keeper - Sephiroth_53: -1921530278
+      Mobile - Final Fantasy Record Keeper - Sephiroth_54: 2085765393
+      Mobile - Final Fantasy Record Keeper - Sephiroth_55: -1060786671
+      Mobile - Final Fantasy Record Keeper - Sephiroth_56: -640683586
+      Mobile - Final Fantasy Record Keeper - Sephiroth_57: -2083033746
+      Mobile - Final Fantasy Record Keeper - Sephiroth_58: 257938588
+      Mobile - Final Fantasy Record Keeper - Sephiroth_59: -2039461814
+      Mobile - Final Fantasy Record Keeper - Sephiroth_6: 1081061708
+      Mobile - Final Fantasy Record Keeper - Sephiroth_60: 1768178477
+      Mobile - Final Fantasy Record Keeper - Sephiroth_61: -972994537
+      Mobile - Final Fantasy Record Keeper - Sephiroth_62: 377195610
+      Mobile - Final Fantasy Record Keeper - Sephiroth_63: 960411420
+      Mobile - Final Fantasy Record Keeper - Sephiroth_64: 1098879658
+      Mobile - Final Fantasy Record Keeper - Sephiroth_65: -94733698
+      Mobile - Final Fantasy Record Keeper - Sephiroth_7: 1481753831
+      Mobile - Final Fantasy Record Keeper - Sephiroth_8: -1014851118
+      Mobile - Final Fantasy Record Keeper - Sephiroth_9: -1713132294
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

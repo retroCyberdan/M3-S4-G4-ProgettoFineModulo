@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: 6e4290acedc8cfc48bafe09192457ec6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eb3cc47603d5c4fabd0a6d197a2285
+      internalID: 660708955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 241
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51be417ef73d47941a3ff3b6bbac4a3f
+      internalID: 370539376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 241
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10cf2dc104fd8348a3911683eb6901c
+      internalID: -604663149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 232
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc7853c2eaa0ad4cb4fd1da997ccdba
+      internalID: 268539941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 232
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153c9f04ef8fdd046b594a3bcdd4b0ac
+      internalID: -370747871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 232
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35603e653ab599249896fcbdfdd072ba
+      internalID: -1113140618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 232
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af459cfb0dc02f4c8185173d86bc130
+      internalID: -1189538910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 232
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b6d2a85daf7a4397925006ce6750d
+      internalID: 192389526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 235
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83633ae4aa8a7bf4092f458784a800a7
+      internalID: -1050375206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 235
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0309ff55ed70f99438788054d274aeb4
+      internalID: 1857640444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 235
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1df9449b3cbf949914217cf4822e72
+      internalID: -1047599679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 240
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fa3ee1c4878df44b275d7e5d38d73b
+      internalID: 811120537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 241
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfdd4c4b3570744abdf720be6237d3c
+      internalID: 310389710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 247
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb76f245de344374e8bf8a6ad82aebe9
+      internalID: -1511534951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 216
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8468effbffdc91947b45d398cbc05954
+      internalID: -2133588976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 216
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b404266d4f55a84a898c726c1779c5e
+      internalID: 1672346603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 216
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ed402ce567a1e4e862726d9b9fdde8
+      internalID: 986943663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 216
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786f5ec39c259604daaba003bd95190d
+      internalID: 1674967104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 239
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef6237382c86044f9d9917e698e582e
+      internalID: 1172809310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1f7e8f619c8dc41a15a09ee2422910
+      internalID: 1101090225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 208
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3cc4ca17e07a549b6dfad3863e697c
+      internalID: 2099651247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 215
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fff38b877416dd4bb2a0ee9fe666889
+      internalID: 1932630686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 215
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3330b431341a0194ab59f0aa24365201
+      internalID: -271957340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 218
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845deb7f07d8304a94390cc66e67759
+      internalID: 236251847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 221
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e258700d215d8c44596fbce305cb28d2
+      internalID: 314776765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 210
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb33ed3a475c5d4bb9eea29d9f8ce5b
+      internalID: 486150265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 210
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb61b6a4f9270c14b862a48a3fcde913
+      internalID: -789496347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 210
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787964ca369e1984c8ffe699d8148255
+      internalID: -131269687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 215
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7315ec9bcf47e54f93563af206dff48
+      internalID: 445289753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 214
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b7ab5635d436f4d975840a3cbf9f1b
+      internalID: 79833491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeee54fc6f08744ba3a11f2270eba6c
+      internalID: -849467800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60219d468f176840bd42ae4995a1c81
+      internalID: -1944957575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5afa65433cf0e74b956f5e476f69799
+      internalID: -1412479528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 192
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8177639212c3c146b7e82010c0517e0
+      internalID: 933959918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd55948837e888b478331cb04443a511
+      internalID: -2015494405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 191
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131aea5bfccbec34386dba4916455b80
+      internalID: -1645613932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 191
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1d49551015d744f8df02fdb9765334
+      internalID: 1780962765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 193
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d58a67f9599c42b0ab890e48a9058
+      internalID: -245953126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 196
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493735e452df7824ebaebd90ba159cb8
+      internalID: -1201043236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 199
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4d8da18543f734e9832e6a94725568
+      internalID: 393718636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_40
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 198
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b968ca1ddaec29e419c3723a5c7af880
+      internalID: 177902938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 190
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c02cb9e61a1a4db30ae8ac8769cc3
+      internalID: -1036836038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_42
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 191
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b45df433d8da449383b5bcea2d060
+      internalID: -1539269162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 189
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9c85a8ad6efdc4aae19712c89b066c
+      internalID: 1112218855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 176
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eed589896c9864f8bffdaf4bb9892b
+      internalID: 159006926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 180
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64285301b0be321438c118ce9f22606e
+      internalID: 248273187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 183
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1f366f2f45fa440b7e62f56780d4b9
+      internalID: 503352426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_47
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 180
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7d04b7be4ea4147a01ed11841bb6d2
+      internalID: -538628770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 181
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eb8771cfcd04d4b9acaa7b97d43ef4
+      internalID: -872093406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_49
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 181
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f93b8cce3d60e34a9ceef2892baf8a2
+      internalID: -896396538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 189
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4763429a74b432243b9a4d9d682e6029
+      internalID: 1551969378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_51
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 167
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83114d72c5b8b024bb8a95eb1a32d3a8
+      internalID: 1089638626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 156
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19d21c9763963445804c952f20d2e42
+      internalID: 440319496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 164
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dc504a7f776cc4098099d194bb0e28
+      internalID: -574530131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 168
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7eb9d69b459a0439eb75402b0508bd
+      internalID: -1589340026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 174
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa28d659c8116f4182d87ba59f12895
+      internalID: -1733661785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_56
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 165
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f460c2ea8524c1140ac9e33fbd2c29c0
+      internalID: -48180120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659aa0c8a7833ed4cb3500f72dd0ceca
+      internalID: 1274762906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c59b8fb6200ab47916b97af82e3994
+      internalID: 1695779800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c3ad3101266ee4984c27397c092477
+      internalID: -930787077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aa2903a52b3834f83be017ff5c8915
+      internalID: 1349362715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec36bfbadec45634f9ca1deec471285d
+      internalID: -1230243700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Rufus_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0545acf3aadc70645bc11a6fb7c30ead
+      internalID: -1612826144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Final Fantasy Record Keeper - Rufus_0: 660708955
+      Mobile - Final Fantasy Record Keeper - Rufus_1: 370539376
+      Mobile - Final Fantasy Record Keeper - Rufus_10: -1047599679
+      Mobile - Final Fantasy Record Keeper - Rufus_11: 811120537
+      Mobile - Final Fantasy Record Keeper - Rufus_12: 310389710
+      Mobile - Final Fantasy Record Keeper - Rufus_13: -1511534951
+      Mobile - Final Fantasy Record Keeper - Rufus_14: -2133588976
+      Mobile - Final Fantasy Record Keeper - Rufus_15: 1672346603
+      Mobile - Final Fantasy Record Keeper - Rufus_16: 986943663
+      Mobile - Final Fantasy Record Keeper - Rufus_17: 1674967104
+      Mobile - Final Fantasy Record Keeper - Rufus_18: 1172809310
+      Mobile - Final Fantasy Record Keeper - Rufus_19: 1101090225
+      Mobile - Final Fantasy Record Keeper - Rufus_2: -604663149
+      Mobile - Final Fantasy Record Keeper - Rufus_20: 2099651247
+      Mobile - Final Fantasy Record Keeper - Rufus_21: 1932630686
+      Mobile - Final Fantasy Record Keeper - Rufus_22: -271957340
+      Mobile - Final Fantasy Record Keeper - Rufus_23: 236251847
+      Mobile - Final Fantasy Record Keeper - Rufus_24: 314776765
+      Mobile - Final Fantasy Record Keeper - Rufus_25: 486150265
+      Mobile - Final Fantasy Record Keeper - Rufus_26: -789496347
+      Mobile - Final Fantasy Record Keeper - Rufus_27: -131269687
+      Mobile - Final Fantasy Record Keeper - Rufus_28: 445289753
+      Mobile - Final Fantasy Record Keeper - Rufus_29: 79833491
+      Mobile - Final Fantasy Record Keeper - Rufus_3: 268539941
+      Mobile - Final Fantasy Record Keeper - Rufus_30: -849467800
+      Mobile - Final Fantasy Record Keeper - Rufus_31: -1944957575
+      Mobile - Final Fantasy Record Keeper - Rufus_32: -1412479528
+      Mobile - Final Fantasy Record Keeper - Rufus_33: 933959918
+      Mobile - Final Fantasy Record Keeper - Rufus_34: -2015494405
+      Mobile - Final Fantasy Record Keeper - Rufus_35: -1645613932
+      Mobile - Final Fantasy Record Keeper - Rufus_36: 1780962765
+      Mobile - Final Fantasy Record Keeper - Rufus_37: -245953126
+      Mobile - Final Fantasy Record Keeper - Rufus_38: -1201043236
+      Mobile - Final Fantasy Record Keeper - Rufus_39: 393718636
+      Mobile - Final Fantasy Record Keeper - Rufus_4: -370747871
+      Mobile - Final Fantasy Record Keeper - Rufus_40: 177902938
+      Mobile - Final Fantasy Record Keeper - Rufus_41: -1036836038
+      Mobile - Final Fantasy Record Keeper - Rufus_42: -1539269162
+      Mobile - Final Fantasy Record Keeper - Rufus_43: 1112218855
+      Mobile - Final Fantasy Record Keeper - Rufus_44: 159006926
+      Mobile - Final Fantasy Record Keeper - Rufus_45: 248273187
+      Mobile - Final Fantasy Record Keeper - Rufus_46: 503352426
+      Mobile - Final Fantasy Record Keeper - Rufus_47: -538628770
+      Mobile - Final Fantasy Record Keeper - Rufus_48: -872093406
+      Mobile - Final Fantasy Record Keeper - Rufus_49: -896396538
+      Mobile - Final Fantasy Record Keeper - Rufus_5: -1113140618
+      Mobile - Final Fantasy Record Keeper - Rufus_50: 1551969378
+      Mobile - Final Fantasy Record Keeper - Rufus_51: 1089638626
+      Mobile - Final Fantasy Record Keeper - Rufus_52: 440319496
+      Mobile - Final Fantasy Record Keeper - Rufus_53: -574530131
+      Mobile - Final Fantasy Record Keeper - Rufus_54: -1589340026
+      Mobile - Final Fantasy Record Keeper - Rufus_55: -1733661785
+      Mobile - Final Fantasy Record Keeper - Rufus_56: -48180120
+      Mobile - Final Fantasy Record Keeper - Rufus_57: 1274762906
+      Mobile - Final Fantasy Record Keeper - Rufus_58: 1695779800
+      Mobile - Final Fantasy Record Keeper - Rufus_59: -930787077
+      Mobile - Final Fantasy Record Keeper - Rufus_6: -1189538910
+      Mobile - Final Fantasy Record Keeper - Rufus_60: 1349362715
+      Mobile - Final Fantasy Record Keeper - Rufus_61: -1230243700
+      Mobile - Final Fantasy Record Keeper - Rufus_62: -1612826144
+      Mobile - Final Fantasy Record Keeper - Rufus_7: 192389526
+      Mobile - Final Fantasy Record Keeper - Rufus_8: -1050375206
+      Mobile - Final Fantasy Record Keeper - Rufus_9: 1857640444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

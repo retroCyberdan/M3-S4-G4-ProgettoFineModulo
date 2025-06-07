@@ -1,0 +1,2160 @@
+fileFormatVersion: 2
+guid: 0a4fd769f7e1dcc4bad7004b4166dddf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98333b015ccba564d830c6cf85ad9706
+      internalID: 286098305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 231
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56481aec1cdfe074dba9135dd8d5dfb8
+      internalID: -968427852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 231
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c448094c7da6ac4dbce792f0c0c486b
+      internalID: -1481687067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 231
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148523e627fb67449dc47122fb6021e
+      internalID: 1378476246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 231
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d9a673ee19a66478a50101f776ac20
+      internalID: -2043482376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 231
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad3d7bf204a11f4dbad923a582108a9
+      internalID: 1188494466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 232
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a0d1dd7d2bd384b971e92cb8633013
+      internalID: 1621884211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 242
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e338936132ae1b40a3904c21335868d
+      internalID: 616789525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4722c6093049d84cac7d53ea1e157dc
+      internalID: 447725404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc434a169efc6f4291043f4b4ac78e5
+      internalID: 2128163915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 207
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a9d9262f5e70e46a7181702eef7708
+      internalID: -1258896173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 207
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7b7ce0e69d6bb49b79258de3542a9a
+      internalID: 1007226002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 206
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90553b39441d4c84eae2dc57a3e8d6d3
+      internalID: 500860941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 206
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a7d55dd931b94f833a273540abbfb
+      internalID: 174841766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 208
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0eb885bc38e34ba7d792b36bcad9a
+      internalID: 1151813396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 228
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cb1f105e23e0844ba7b8647a02b468
+      internalID: 586805160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 214
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94013ec38a763c347889ffad5c57d699
+      internalID: -205825245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727af69a7e629e04abdfc3ec89514117
+      internalID: -1211889210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 182
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f201a20ba6f2443a400715c727afb2
+      internalID: 1807777790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 182
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922cd7cce8129cc489b44e08d59608d0
+      internalID: 848910662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 182
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cc17e81bb45d64ebf08d93159dd330
+      internalID: 700369125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 181
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe1643e10386f41ac3134c7a4e6b54
+      internalID: 1097840892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 181
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336e22718438e9542be032e8c828c32c
+      internalID: 1700586849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 183
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31299f4b8c8a5d14ba940261d048b9cb
+      internalID: -693059147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 200
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e304698a191dc47a8ce87b4d262045
+      internalID: 88660886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 188
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a00a34470883624e8fefe3a924d2dbf
+      internalID: -1950785150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 157
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e80f171728c7bd4eaf88630d2252a09
+      internalID: 1601162502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 157
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35813d5ed3c4a334d9ab4125b5c87302
+      internalID: -1311245624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 157
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca12abeee5b46544faf739d156bfb6f6
+      internalID: -1892786124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 157
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c608ca61fe6d84442b8f3c8c28f22ece
+      internalID: -1783313277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 156
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98bb13c724d2434fa9dc923e7c810dd
+      internalID: 509481400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 156
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431065f47a46ad848bd04a5b1dca9d57
+      internalID: -1921423166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 158
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc2f367478ac99429dfa03fedc99833
+      internalID: -918722290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 179
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ef63b00b503014492646614a5ce658
+      internalID: -1685889779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0382a0f49e71045b582f6001f10e98
+      internalID: -1016691589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 133
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292bd99b9c55884399e49e7fb293142
+      internalID: 1655562330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 133
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a68b57afda637f4d817a60a7b16b01c
+      internalID: -742426956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 133
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b56139c2a752b94d8569181f966dd7d
+      internalID: -541358291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 132
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6dff9e72669904b9531874c6086025
+      internalID: -1734117904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 132
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a6f811e0955e4791a7761fa0a2196
+      internalID: -1529551203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 133
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0c31370392e7146b4b81c2dcb485d3
+      internalID: -1549206343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_41
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 154
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fa3d9e3cc70c7419a955d7c067dc48
+      internalID: 1432431294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39c03360caf90242bf30210d11e3f02
+      internalID: -314282555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 109
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6c7204fdc910e488d75dd4e6117af1
+      internalID: -1048452107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 109
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14f481e27a2c97408385b469b03bb86
+      internalID: 258649369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 109
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e08254e11a15474f801f4fcf8b404b3
+      internalID: 1775231491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 108
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d82f21a9ab2a744a78e684c37c0976
+      internalID: -1643160469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 108
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ee3dea3c904eb4280d6f87c5a4ea90
+      internalID: -1701770221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 109
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402e14ec7b5453946ba9b7790382f266
+      internalID: -56846611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 129
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779d9b6b30dc4e049bbf190933cd2909
+      internalID: -2044035410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 85
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6c727b92c03794e924e06878943a75
+      internalID: -198431577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672e73456b2fbb844aca15bec91607f8
+      internalID: 611471872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_52
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 85
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027b64fad6528f043afe25dce75c1902
+      internalID: -364642628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_53
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 85
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adf8e1795042114c9a204c0c3b1f0ed
+      internalID: 396949849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 84
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6170223d1ce5b49929519ad5753517
+      internalID: 1158004738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 87
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fe4583fb4496b46b83e3c5bd500b58
+      internalID: 81826189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_56
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 85
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeddf5e4e9217d44b7ac8ac6d79aab3
+      internalID: 2071703405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 104
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e87d75816961b48adf6c794244ea84
+      internalID: 2038484662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b482925e33e96249b5f5bcf22cba296
+      internalID: 485380624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_59
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3978e1d553ecb4785a689d5f075c9c
+      internalID: -432085195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 71
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be64a8f8dc0d6f2428f51b0a8ed591bd
+      internalID: 1262234288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 59
+        width: 13
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656a4df6f299711428de4500976ce578
+      internalID: -382193078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 66
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26770bdbfef7914c9c247e13bdd4bb3
+      internalID: -1929389208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_63
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 60
+        width: 13
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe2ad53cbb623a478b502a79ecbc3df
+      internalID: 1917925496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 79
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5fcdd7cf9d2734f93822eca6988afa
+      internalID: -1223425951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f185a6a053f8e842b04ab2ae47df403
+      internalID: 956833629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6e9c12aa04fd345932e7bc17ef3d7b
+      internalID: 1463022944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 57
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e8e2a0220b34d46ac35fb38c7593da
+      internalID: -1835983743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_68
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 41
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50edb53c09e3b54cb6c7b3358e8738b
+      internalID: -1334354953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 57
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4de458d86dbe0a46bc175de17d8c0c6
+      internalID: 709464216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_70
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 35
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed6114e791e7bd46b1da9c1c7e68b39
+      internalID: 893558528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_71
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 58
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffef59b484a19c458d67fe3176f76fc
+      internalID: -474733039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_72
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 45
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a01d6b4271acf4ebf03989ab72ddda
+      internalID: 1634237691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_73
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 45
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5074ba0c5326242ba2dff3c7f49d01
+      internalID: 272115408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_74
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 34
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a5322ca73a248428bf6d21ac7eee49
+      internalID: 451126142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_75
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 48
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c70e773e7561e459de026935240ae8
+      internalID: -966494778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_76
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 33
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cc4d18bf07dc94ba5b9da3a4c6f029
+      internalID: -472022662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8066cd710820f8342abf622e42eaf653
+      internalID: -2092157370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_78
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6e23ca5cc92a0469fc75e9491a92e2
+      internalID: -332004499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_79
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 17
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67fb708ff6ae874091daeab5c3ea82f
+      internalID: 1225607497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_80
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 39
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d938f7acbb9b7074189d39d835637842
+      internalID: 1321769292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61102e905f6e2ae40b8d5d9cd169bcc7
+      internalID: -910333746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 25
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c6a6fec3173a49a1b81dc227c3b44
+      internalID: 1558596068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 19
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7f22606388d664fa450b586e7bcfe3
+      internalID: 142098230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 19
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fc512d154b5204b8224e1da14e73d8
+      internalID: 1831508338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6134d428372b140b3f00bae86106e3
+      internalID: 2052515508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb74c79db39b58d4bb28c74ff89a5d0d
+      internalID: 184203327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_87
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf7ef3dba30d2a4ab4945ccde31540b
+      internalID: -594041971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_88
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69d406c685ebff43a4c29b3c36811ca
+      internalID: -1307623829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_89
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e689b567d2d4a41b4a57fd79f9f92b
+      internalID: 1875460018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c3937c5cb35af4ba920078b96e333b
+      internalID: 225404144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_91
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bee2153e51bae449c49ce8ba96c44d
+      internalID: 2022891605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Tifa_92
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896f44cf87cfc8418814701c7be8cfd
+      internalID: -310499977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Final Fantasy Record Keeper - Tifa_0: 286098305
+      Mobile - Final Fantasy Record Keeper - Tifa_1: -968427852
+      Mobile - Final Fantasy Record Keeper - Tifa_10: -1258896173
+      Mobile - Final Fantasy Record Keeper - Tifa_11: 1007226002
+      Mobile - Final Fantasy Record Keeper - Tifa_12: 500860941
+      Mobile - Final Fantasy Record Keeper - Tifa_13: 174841766
+      Mobile - Final Fantasy Record Keeper - Tifa_14: 1151813396
+      Mobile - Final Fantasy Record Keeper - Tifa_15: 586805160
+      Mobile - Final Fantasy Record Keeper - Tifa_16: -205825245
+      Mobile - Final Fantasy Record Keeper - Tifa_17: -1211889210
+      Mobile - Final Fantasy Record Keeper - Tifa_18: 1807777790
+      Mobile - Final Fantasy Record Keeper - Tifa_19: 848910662
+      Mobile - Final Fantasy Record Keeper - Tifa_2: -1481687067
+      Mobile - Final Fantasy Record Keeper - Tifa_20: 700369125
+      Mobile - Final Fantasy Record Keeper - Tifa_21: 1097840892
+      Mobile - Final Fantasy Record Keeper - Tifa_22: 1700586849
+      Mobile - Final Fantasy Record Keeper - Tifa_23: -693059147
+      Mobile - Final Fantasy Record Keeper - Tifa_24: 88660886
+      Mobile - Final Fantasy Record Keeper - Tifa_25: -1950785150
+      Mobile - Final Fantasy Record Keeper - Tifa_26: 1601162502
+      Mobile - Final Fantasy Record Keeper - Tifa_27: -1311245624
+      Mobile - Final Fantasy Record Keeper - Tifa_28: -1892786124
+      Mobile - Final Fantasy Record Keeper - Tifa_29: -1783313277
+      Mobile - Final Fantasy Record Keeper - Tifa_3: 1378476246
+      Mobile - Final Fantasy Record Keeper - Tifa_30: 509481400
+      Mobile - Final Fantasy Record Keeper - Tifa_31: -1921423166
+      Mobile - Final Fantasy Record Keeper - Tifa_32: -918722290
+      Mobile - Final Fantasy Record Keeper - Tifa_33: -1685889779
+      Mobile - Final Fantasy Record Keeper - Tifa_34: -1016691589
+      Mobile - Final Fantasy Record Keeper - Tifa_35: 1655562330
+      Mobile - Final Fantasy Record Keeper - Tifa_36: -742426956
+      Mobile - Final Fantasy Record Keeper - Tifa_37: -541358291
+      Mobile - Final Fantasy Record Keeper - Tifa_38: -1734117904
+      Mobile - Final Fantasy Record Keeper - Tifa_39: -1529551203
+      Mobile - Final Fantasy Record Keeper - Tifa_4: -2043482376
+      Mobile - Final Fantasy Record Keeper - Tifa_40: -1549206343
+      Mobile - Final Fantasy Record Keeper - Tifa_41: 1432431294
+      Mobile - Final Fantasy Record Keeper - Tifa_42: -314282555
+      Mobile - Final Fantasy Record Keeper - Tifa_43: -1048452107
+      Mobile - Final Fantasy Record Keeper - Tifa_44: 258649369
+      Mobile - Final Fantasy Record Keeper - Tifa_45: 1775231491
+      Mobile - Final Fantasy Record Keeper - Tifa_46: -1643160469
+      Mobile - Final Fantasy Record Keeper - Tifa_47: -1701770221
+      Mobile - Final Fantasy Record Keeper - Tifa_48: -56846611
+      Mobile - Final Fantasy Record Keeper - Tifa_49: -2044035410
+      Mobile - Final Fantasy Record Keeper - Tifa_5: 1188494466
+      Mobile - Final Fantasy Record Keeper - Tifa_50: -198431577
+      Mobile - Final Fantasy Record Keeper - Tifa_51: 611471872
+      Mobile - Final Fantasy Record Keeper - Tifa_52: -364642628
+      Mobile - Final Fantasy Record Keeper - Tifa_53: 396949849
+      Mobile - Final Fantasy Record Keeper - Tifa_54: 1158004738
+      Mobile - Final Fantasy Record Keeper - Tifa_55: 81826189
+      Mobile - Final Fantasy Record Keeper - Tifa_56: 2071703405
+      Mobile - Final Fantasy Record Keeper - Tifa_57: 2038484662
+      Mobile - Final Fantasy Record Keeper - Tifa_58: 485380624
+      Mobile - Final Fantasy Record Keeper - Tifa_59: -432085195
+      Mobile - Final Fantasy Record Keeper - Tifa_6: 1621884211
+      Mobile - Final Fantasy Record Keeper - Tifa_60: 1262234288
+      Mobile - Final Fantasy Record Keeper - Tifa_61: -382193078
+      Mobile - Final Fantasy Record Keeper - Tifa_62: -1929389208
+      Mobile - Final Fantasy Record Keeper - Tifa_63: 1917925496
+      Mobile - Final Fantasy Record Keeper - Tifa_64: -1223425951
+      Mobile - Final Fantasy Record Keeper - Tifa_65: 956833629
+      Mobile - Final Fantasy Record Keeper - Tifa_66: 1463022944
+      Mobile - Final Fantasy Record Keeper - Tifa_67: -1835983743
+      Mobile - Final Fantasy Record Keeper - Tifa_68: -1334354953
+      Mobile - Final Fantasy Record Keeper - Tifa_69: 709464216
+      Mobile - Final Fantasy Record Keeper - Tifa_7: 616789525
+      Mobile - Final Fantasy Record Keeper - Tifa_70: 893558528
+      Mobile - Final Fantasy Record Keeper - Tifa_71: -474733039
+      Mobile - Final Fantasy Record Keeper - Tifa_72: 1634237691
+      Mobile - Final Fantasy Record Keeper - Tifa_73: 272115408
+      Mobile - Final Fantasy Record Keeper - Tifa_74: 451126142
+      Mobile - Final Fantasy Record Keeper - Tifa_75: -966494778
+      Mobile - Final Fantasy Record Keeper - Tifa_76: -472022662
+      Mobile - Final Fantasy Record Keeper - Tifa_77: -2092157370
+      Mobile - Final Fantasy Record Keeper - Tifa_78: -332004499
+      Mobile - Final Fantasy Record Keeper - Tifa_79: 1225607497
+      Mobile - Final Fantasy Record Keeper - Tifa_8: 447725404
+      Mobile - Final Fantasy Record Keeper - Tifa_80: 1321769292
+      Mobile - Final Fantasy Record Keeper - Tifa_81: -910333746
+      Mobile - Final Fantasy Record Keeper - Tifa_82: 1558596068
+      Mobile - Final Fantasy Record Keeper - Tifa_83: 142098230
+      Mobile - Final Fantasy Record Keeper - Tifa_84: 1831508338
+      Mobile - Final Fantasy Record Keeper - Tifa_85: 2052515508
+      Mobile - Final Fantasy Record Keeper - Tifa_86: 184203327
+      Mobile - Final Fantasy Record Keeper - Tifa_87: -594041971
+      Mobile - Final Fantasy Record Keeper - Tifa_88: -1307623829
+      Mobile - Final Fantasy Record Keeper - Tifa_89: 1875460018
+      Mobile - Final Fantasy Record Keeper - Tifa_9: 2128163915
+      Mobile - Final Fantasy Record Keeper - Tifa_90: 225404144
+      Mobile - Final Fantasy Record Keeper - Tifa_91: 2022891605
+      Mobile - Final Fantasy Record Keeper - Tifa_92: -310499977
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

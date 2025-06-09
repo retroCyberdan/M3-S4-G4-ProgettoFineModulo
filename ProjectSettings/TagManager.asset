@@ -4,9 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Enemy
   - Ground
   - Building
-  - Enemy
+  - Item
   layers:
   - Default
   - TransparentFX
@@ -43,4 +44,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 290191213
+    locked: 0
+  - name: Misc Below Buildings
+    uniqueID: 2656318683
+    locked: 0
+  - name: Building
+    uniqueID: 472469465
+    locked: 0
+  - name: Misc
+    uniqueID: 2840160609
+    locked: 0
+  - name: Player
+    uniqueID: 2922729995
+    locked: 0
+  - name: MiscOver
+    uniqueID: 21929745
     locked: 0

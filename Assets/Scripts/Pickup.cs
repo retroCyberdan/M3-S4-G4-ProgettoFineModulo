@@ -4,15 +4,20 @@ using UnityEngine;
 
 public class Pickup : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [SerializeField] private Gun _weaponPrefab; // <- prefab dell'arma da assegnare
+    [SerializeField] private Vector3 _weaponSpawnPoint = Vector3.zero; // <- coordinate per il posizionamento dell'arma
 
-    // Update is called once per frame
-    void Update()
+    void OnTriggerEnter2D(Collider2D collision)
     {
-        
+        if (collision.CompareTag("Player"))
+        {
+            Transform player = collision.transform;
+
+            // Istanzia l'arma come figlio del player
+            Gun weapon = Instantiate(_weaponPrefab, player.position + _weaponSpawnPoint, Quaternion.identity);
+            weapon.transform.SetParent(player);
+
+            Destroy(gameObject); // <- distrugge il pickup
+        }
     }
 }

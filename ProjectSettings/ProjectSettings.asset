@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: b141f6e5785d14e4587724e2f118b092
+  productGUID: c4bf5507a83e6fe4c857ea7544c69095
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: M3-S4-G4
+  productName: M3-S4-G1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -600,14 +600,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: M3-S4-G4
+  metroPackageName: M3-S4-G1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: M3-S4-G4
+  metroApplicationDescription: M3-S4-G1
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -676,10 +676,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: d96cfc6c-b6a1-4606-9703-546c11faa4e6
+  cloudProjectId: afdb60d1-ffa9-46f2-9029-a0545a101cdb
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: M3-S4-G4
+  projectName: M3-S4-G1
   organizationId: cyb3rdan
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

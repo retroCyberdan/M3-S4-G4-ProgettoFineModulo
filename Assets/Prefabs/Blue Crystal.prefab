@@ -12,8 +12,7 @@ GameObject:
   - component: {fileID: 7562625200648850296}
   - component: {fileID: 8609887240433585172}
   - component: {fileID: 905121685493097922}
-  - component: {fileID: 760987621644122524}
-  - component: {fileID: 3707612641009125908}
+  - component: {fileID: 5830317760669473253}
   m_Layer: 0
   m_Name: Blue Crystal
   m_TagString: Item
@@ -154,7 +153,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &760987621644122524
+--- !u!114 &5830317760669473253
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -163,24 +162,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 986334805362357016}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d249bbf02f727f468e4ae428610f079, type: 3}
+  m_Script: {fileID: 11500000, guid: ce24dacf9f09f7c4ba644301735adee2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _bulletPrefab: {fileID: -6760838063881315542, guid: 8ff8a7bbd64a2424fbd93e2341195f34, type: 3}
-  firePoint: {fileID: 0}
-  _fireRate: 1
-  _fireRange: 5
---- !u!114 &3707612641009125908
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986334805362357016}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 610ae70f993911545870fa8d9cfbdeab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _weaponPrefab: {fileID: 0}
-  _weaponSpawnPoint: {x: 0, y: 0, z: 0}
+  _weaponPrefab: {fileID: 4937335964294428771, guid: d342bbf261aac824f99142258018c11d, type: 3}

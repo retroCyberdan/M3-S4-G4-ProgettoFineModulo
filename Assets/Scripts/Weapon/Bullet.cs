@@ -17,9 +17,9 @@ public class Bullet : MonoBehaviour
     // Start is called before the first frame update
     public void OnCollisionEnter2D(Collision2D collision)
     {
-        LifeController target = collision.collider.GetComponent<LifeController>();
         if (collision.collider.CompareTag("Enemy"))
-        {            
+        {
+            LifeController target = collision.collider.GetComponent<LifeController>();
             collision.collider.GetComponent<EnemyAnimator>().DeathAnimation();
             target.TakeDamage(_damage);
             AudioController.Play(hitSound, transform.position, 1);

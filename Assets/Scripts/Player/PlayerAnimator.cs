@@ -17,10 +17,10 @@ public class PlayerAnimator : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (_playerController.dir != Vector2.zero)
+        if (_playerController.Dir != Vector2.zero)
         {
-            _animator.SetFloat("hDir", _playerController.h);
-            _animator.SetFloat("vDir", _playerController.v);
+            _animator.SetFloat("hDir", _playerController.H);
+            _animator.SetFloat("vDir", _playerController.V);
         }
     }
 }

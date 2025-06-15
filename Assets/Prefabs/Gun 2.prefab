@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &1109955565901084023
+--- !u!1 &4026901459537519614
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,7 +8,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4877434136621594624}
+  - component: {fileID: 6435453454708758874}
   m_Layer: 0
   m_Name: FirePoint
   m_TagString: Untagged
@@ -16,13 +16,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4877434136621594624
+--- !u!4 &6435453454708758874
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1109955565901084023}
+  m_GameObject: {fileID: 4026901459537519614}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.8, y: 0, z: 0}
@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 4505150987219094209}
   - component: {fileID: 4937335964294428771}
   m_Layer: 0
-  m_Name: Gun
+  m_Name: Gun 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -62,7 +62,7 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 4877434136621594624}
+  - {fileID: 6435453454708758874}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &4505150987219094209
@@ -106,7 +106,7 @@ SpriteRenderer:
   m_SortingLayerID: -1372237301
   m_SortingLayer: 5
   m_SortingOrder: 0
-  m_Sprite: {fileID: -144335857, guid: 0d5e657ee5a074e4baa53d5b248a01d2, type: 3}
+  m_Sprite: {fileID: 1772703093, guid: 0d5e657ee5a074e4baa53d5b248a01d2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -129,10 +129,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 879fc36c291ccfe44ae01bcf1b2cb7dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _fireRate: 5
+  _fireRate: 1
   _fireRange: 6
   _bulletSpeed: 0
   _followDistance: 0.7
   _bulletPrefab: {fileID: 3616849176267991614, guid: 8ff8a7bbd64a2424fbd93e2341195f34, type: 3}
-  _firePoint: {fileID: 4877434136621594624}
+  _firePoint: {fileID: 6435453454708758874}
   shootSound: {fileID: 8300000, guid: 6f0c572d865b4664db7a460972bc4768, type: 3}

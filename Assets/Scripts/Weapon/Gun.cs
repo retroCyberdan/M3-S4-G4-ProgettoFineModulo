@@ -77,7 +77,7 @@ public class Gun : MonoBehaviour
         GameObject target = FindEnemyNearest(); // <- cerco il target più vicino tramite il metodo creato prima
         if (target == null) return; // <- se non ci sono target nel range, non spara
         
-        Bullet bulletClone = Instantiate(_bulletPrefab, transform.position, _bulletPrefab.transform.rotation); // <- creo un clone del Prefab tramite il metodo "Instantiate" e lo metto in scena
+        Bullet bulletClone = Instantiate(_bulletPrefab, _firePoint.position, _firePoint.rotation); // <- creo un clone del Prefab tramite il metodo "Instantiate" e lo metto in scena
         bulletClone.transform.position = transform.position + Vector3.forward * 1.5f; // <- lo faccio spawnare leggermente avanti al player
         Vector2 bulletDirection = (target.transform.position - transform.position).normalized; // <- creao un Vector2 direzione a cui assegno la differenza tra la posizione del target e la mia (normalizzata)
         Rigidbody2D bulletRb = bulletClone.GetComponent<Rigidbody2D>(); // <- accedo alla componente Rigidbody2D del mio clone
